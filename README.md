@@ -9,8 +9,7 @@ Passionate about **Machine Learning**, **AI Tools**, and building intelligent pr
 - 📊 Currently learning Data Science & ML techniques
 - 🔧 Building projects that leverage AI and modern frameworks
 - 📚 Always learning and sharing my tech journey
-
-## 🛠 Tech Stack
+  
 
 ## 🛠 Tech Stack
 
@@ -38,6 +37,7 @@ Passionate about **Machine Learning**, **AI Tools**, and building intelligent pr
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sikee18&theme=radical&show_icons=true)
 
 ---
+
 
 ## 🔗 Connect With Me
 *"Coding the future, one repo at a time."*
