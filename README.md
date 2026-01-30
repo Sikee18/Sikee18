@@ -38,6 +38,15 @@ Passionate about **Machine Learning**, **AI Tools**, and building intelligent pr
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&
+  lines=CS+Student+%7C+AI+%26+ML+Enthusiast;
+  Building+Real-World+Projects;
+  Learning+Data+Science+%26+Cloud" />
+</p>
+
+
 
 ## 🔗 Connect With Me
 *"Coding the future, one repo at a time."*
