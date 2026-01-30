@@ -1,5 +1,8 @@
-# Hey there, I'm Rathinavel Meiyappan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=950&lines=AI+Tools+%26+Automation;Software+Development+%26+Data+Analytics;B.Tech+CSBS+Student;Building+Practical+Real-World+Projects" />
+</p>
 
+# Hey there, I'm Rathinavel Meiyappan
 **B.Tech Computer Science Student** @ RMK Engineering College
 
 Passionate about **Machine Learning**, **AI Tools**, and building intelligent projects. Interested in exploring data science, AI applications, and leveraging modern tools to solve real-world problems.
@@ -9,6 +12,10 @@ Passionate about **Machine Learning**, **AI Tools**, and building intelligent pr
 - 📊 Currently learning Data Science & ML techniques
 - 🔧 Building projects that leverage AI and modern frameworks
 - 📚 Always learning and sharing my tech journey
+- 📈 Learning how to analyze data and extract meaningful insights
+- 🗄️ Working with SQL and structured data for analytics use cases
+- 📊 Exploring data visualization tools to present insights clearly
+
   
 
 ## 🛠 Tech Stack
@@ -30,21 +37,6 @@ Passionate about **Machine Learning**, **AI Tools**, and building intelligent pr
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sikee18&theme=radical&show_icons=true)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&
-  lines=CS+Student+%7C+AI+%26+ML+Enthusiast;
-  Building+Real-World+Projects;
-  Learning+Data+Science+%26+Cloud" />
-</p>
 
 
 
